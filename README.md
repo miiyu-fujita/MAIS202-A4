@@ -3,7 +3,7 @@ MAIS202 Assignment 4 - Kaggle Competition
 
 To reproduce results:
 
-1. Open the following notebook in Google Colab: https://colab.research.google.com/drive/1Ksrv59QVDyS8toLwm0vHYhyr_1-WvZ9m?usp=sharing
+1. Run the "MAISAssignment4.ipynb" file or open the following notebook in Google Colab: https://colab.research.google.com/drive/1Ksrv59QVDyS8toLwm0vHYhyr_1-WvZ9m?usp=sharing
 > Run the first cell in Colab to mount google drive. This will make it much simpler to access google drive from the VM environment
 2. Run all cells under "1. Importing Kaggle Data"
 > You will be installing the required datasets as well as python libraries necessary to execute the rest of the code. You will also be preprocessing and cleaning the dataset images in this step. 
